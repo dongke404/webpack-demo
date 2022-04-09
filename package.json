@@ -36,7 +36,7 @@
     "happypack": "^5.0.1",
     "jquery": "^3.5.1",
     "less-loader": "^6.1.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "style-loader": "^1.2.1"
